@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.titulo{
+    color: aqua;
+    text-align: center;
+}
+.paragrafo{
+    color: aliceblue;
+}
+.botao{
+    text-align: center;
+}
+.foto{
+    width: 30%;
+}
+.img{
+    text-align: center;
+}
